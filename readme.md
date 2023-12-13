@@ -8,4 +8,5 @@ This repo contains the source code for my final year project, namely:
 	- Any scripts or data used within the Unity Project
 	- The Arduino code used to retrieve downwards force from the board's IMU, and broadcast it over BLE
 
- https://www.youtube.com/watch?v=23eWtzB5Yhc
+https://github.com/M-Atkins/Mixed-Reality-Cycling-Simulation-Project-CMP3753M/assets/43812266/60ec8e7a-d528-492d-8fab-6b2e3d477971
+
